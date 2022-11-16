@@ -1,11 +1,11 @@
 # AIGROW
----
-### Introduction
----
+
+## Introduction
+
 The source code of AIGROW is organized here. The code is different for different model checkers. Therefore, we organize a separate folder for each model checker.
 
-### File Organization
----
+## File Organization
+
 For the different model checkers, the code is organized in a similar way. We take ABC-pdr as an example. The file organization is as follow:
 ```
 |-- pdr-feedback
@@ -24,20 +24,21 @@ For the different model checkers, the code is organized in a similar way. We tak
     |-- re_generate_thread.sh
     |-- params                            // parameters configure file
 ```
-### Installation
----
+## Installation
+
 First, We need to install the model checker.
 -   Obtain the latest version of ABC-pdr at:
 > [https://github.com/berkeley-abc/abc](https://github.com/berkeley-abc/abc)
 -   Obtain the latest version of IC3-ref at:
 > [https://github.com/arbrad/IC3ref](https://github.com/arbrad/IC3ref)
 -   Obtain the latest version of SimpleCAR at:
-> [TODO?](https://github.com/lijwen2748/simplecar)
+> [https://github.com/lijwen2748/simplecar](https://github.com/lijwen2748/simplecar)
 
-### Usage
----
-1. Add the model checker into bin/. For example, add the executable file *abc* into bin/ folder. 
-2. To run AIGROW: python3 feedback_xxx.py. Take ABC-pdr as an example:
+## Usage
+
+1. Add the model checker into **bin/**. For example, add the executable file **abc** into **bin/** folder. 
+2. Set parameters in file **params**. For example, enter "15 70 15" in the file, which means the input ratio is 15%, latch raio is 70%, AND gate ratio is 15%. 
+3. To run AIGROW: **python3 feedback_xxx.py**. Take ABC-pdr as an example:
 ```
 python3 feedback_pdr.py
 ```

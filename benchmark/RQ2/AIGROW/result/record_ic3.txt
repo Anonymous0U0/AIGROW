@@ -1,0 +1,1923 @@
+gen1.aag generate temp/gen47827995334400.aag successed with 2 inputs, 6 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:5.991648197174072
+gen2.aag generate temp/gen47827995334400.aag successed with 2 inputs, 10 latches, 1 ands.
+0
+False frame:1 time:0.0 gen_time:6.282097101211548
+gen3.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen1.aag successed with 2 inputs, 9 latches, 4 ands.
+0
+True frame:3 time:0.0 gen_time:7.050957202911377
+gen4.aag generate temp/gen47827995334400.aag successed with 6 inputs, 44 latches, 12 ands.
+0
+False frame:0 time:0.0 gen_time:8.503466606140137
+gen5.aag generate temp/gen47827995334400.aag successed with 2 inputs, 4 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:11.289905548095703
+gen6.aag generate temp/gen47827995334400.aag successed with 2 inputs, 4 latches, 3 ands.
+0
+False frame:2 time:0.0 gen_time:11.547235250473022
+gen7.aag generate temp/gen47827995334400.aag successed with 1 inputs, 7 latches, 2 ands.
+0
+False frame:1 time:0.0 gen_time:11.786677360534668
+gen8.aag generate temp/gen47827995334400.aag successed with 2 inputs, 3 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:14.563127756118774
+gen9.aag generate temp/gen47827995334400.aag successed with 1 inputs, 7 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:15.219992876052856
+gen10.aag generate temp/gen47827995334400.aag successed with 1 inputs, 9 latches, 2 ands.
+0
+False frame:1 time:0.0 gen_time:21.709230661392212
+gen11.aag generate temp/gen47827995334400.aag successed with 1 inputs, 1 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:25.80292773246765
+gen12.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 1 inputs, 4 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:31.156471729278564
+gen13.aag generate temp/gen47827995334400.aag successed with 6 inputs, 35 latches, 11 ands.
+0
+False frame:0 time:0.0 gen_time:32.45808959007263
+gen14.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen1.aag successed with 1 inputs, 13 latches, 3 ands.
+0
+True frame:6 time:0.0 gen_time:32.76996636390686
+gen15.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen8.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:33.32077193260193
+gen16.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen8.aag successed with 1 inputs, 25 latches, 6 ands.
+0
+True frame:1 time:0.0 gen_time:34.50088047981262
+gen17.aag generate temp/gen47827995334400.aag successed with 2 inputs, 10 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:36.76794648170471
+gen18.aag generate temp/gen47827995334400.aag successed with 3 inputs, 8 latches, 3 ands.
+0
+False frame:0 time:0.0 gen_time:39.28086543083191
+gen19.aag generate temp/gen47827995334400.aag successed with 3 inputs, 1 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:40.27070951461792
+gen20.aag generate temp/gen47827995334400.aag successed with 1 inputs, 7 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:43.188376665115356
+gen21.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen5.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:49.35830044746399
+gen22.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 2 inputs, 14 latches, 7 ands.
+0
+True frame:5 time:0.0 gen_time:50.717917919158936
+gen23.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen18.aag successed with 1 inputs, 17 latches, 5 ands.
+0
+True frame:4 time:0.0 gen_time:54.63428831100464
+gen24.aag generate temp/gen47827995334400.aag successed with 2 inputs, 1 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:55.89393877983093
+gen25.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen11.aag successed with 1 inputs, 4 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:59.33731770515442
+gen26.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen1.aag successed with 3 inputs, 17 latches, 5 ands.
+0
+True frame:3 time:0.0 gen_time:65.5167236328125
+gen27.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen11.aag successed with 2 inputs, 7 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:70.11758017539978
+gen28.aag generate temp/gen47827995334400.aag successed with 1 inputs, 8 latches, 3 ands.
+0
+False frame:1 time:0.0 gen_time:71.14113807678223
+gen29.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 4 inputs, 33 latches, 9 ands.
+0
+True frame:6 time:0.0 gen_time:75.10338497161865
+gen30.aag generate temp/gen47827995334400.aag successed with 4 inputs, 25 latches, 5 ands.
+0
+False frame:0 time:0.0 gen_time:75.96586632728577
+gen31.aag generate temp/gen47827995334400.aag successed with 2 inputs, 1 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:79.53560590744019
+gen32.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 2 inputs, 9 latches, 6 ands.
+0
+True frame:3 time:0.0 gen_time:80.85317254066467
+gen33.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen8.aag successed with 1 inputs, 5 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:81.34146499633789
+gen34.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 1 inputs, 12 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:84.41664004325867
+gen35.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 2 inputs, 14 latches, 5 ands.
+0
+True frame:4 time:0.0 gen_time:84.86676621437073
+gen36.aag generate temp/gen47827995334400.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:86.70040273666382
+gen37.aag generate temp/gen47827995334400.aag successed with 2 inputs, 2 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:89.37777805328369
+gen38.aag generate temp/gen47827995334400.aag successed with 2 inputs, 15 latches, 5 ands.
+0
+False frame:1 time:0.0 gen_time:96.81506061553955
+gen39.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 1 inputs, 10 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:100.21191358566284
+gen40.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 1 inputs, 2 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:100.9822096824646
+gen41.aag generate temp/gen47827995334400.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+False frame:1 time:0.0 gen_time:104.42960333824158
+gen42.aag generate temp/gen47827995334400.aag successed with 1 inputs, 3 latches, 3 ands.
+0
+False frame:0 time:0.0 gen_time:106.25284051895142
+gen43.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:110.8093433380127
+gen44.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen11.aag successed with 1 inputs, 8 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:111.60242867469788
+gen45.aag generate temp/gen47827995334400.aag successed with 2 inputs, 10 latches, 3 ands.
+0
+False frame:1 time:0.0 gen_time:112.0504801273346
+gen46.aag generate temp/gen47827995334400.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:112.8307273387909
+gen47.aag generate temp/gen47827995334400.aag successed with 3 inputs, 20 latches, 7 ands.
+0
+False frame:0 time:0.0 gen_time:121.63062405586243
+gen48.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen45.aag successed with 2 inputs, 16 latches, 8 ands.
+0
+True frame:2 time:0.0 gen_time:122.10875916481018
+gen49.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 2 inputs, 6 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:123.81278419494629
+gen50.aag generate temp/gen47827995334400.aag successed with 2 inputs, 12 latches, 5 ands.
+0
+False frame:1 time:0.0 gen_time:124.30698537826538
+gen51.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 2 inputs, 5 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:125.34899568557739
+gen52.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:128.46122026443481
+gen53.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen13.aag successed with 3 inputs, 50 latches, 13 ands.
+0
+True frame:1 time:0.0 gen_time:128.92177081108093
+gen54.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 3 inputs, 10 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:129.70293807983398
+gen55.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen45.aag successed with 1 inputs, 14 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:131.8744432926178
+gen56.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 2 inputs, 19 latches, 8 ands.
+0
+True frame:1 time:0.0 gen_time:137.8913378715515
+gen57.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 12 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:139.91536688804626
+gen58.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:140.4989492893219
+gen59.aag generate temp/gen47827995334400.aag successed with 1 inputs, 0 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:140.99559593200684
+gen60.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen37.aag successed with 1 inputs, 11 latches, 1 ands.
+0
+True frame:2 time:0.0 gen_time:142.0490837097168
+gen61.aag generate temp/gen47827995334400.aag successed with 5 inputs, 22 latches, 13 ands.
+0
+False frame:0 time:0.0 gen_time:143.5021195411682
+gen62.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 8 inputs, 73 latches, 22 ands.
+0
+True frame:4 time:0.0 gen_time:145.28313565254211
+gen63.aag generate temp/gen47827995334400.aag successed with 6 inputs, 39 latches, 10 ands.
+0
+False frame:1 time:0.0 gen_time:149.21587014198303
+gen64.aag generate temp/gen47827995334400.aag successed with 4 inputs, 7 latches, 3 ands.
+0
+False frame:0 time:0.0 gen_time:152.704660654068
+gen65.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen37.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:153.40180468559265
+gen66.aag generate temp/gen47827995334400.aag successed with 3 inputs, 5 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:159.53118085861206
+gen67.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen30.aag successed with 2 inputs, 40 latches, 12 ands.
+0
+True frame:4 time:0.0 gen_time:162.47407054901123
+gen68.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 1 inputs, 7 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:163.68868565559387
+gen69.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen41.aag successed with 3 inputs, 15 latches, 10 ands.
+0
+True frame:1 time:0.0 gen_time:164.44716620445251
+gen70.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 2 inputs, 12 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:177.08380150794983
+gen71.aag generate temp/gen47827995334400.aag successed with 6 inputs, 54 latches, 9 ands.
+0
+False frame:1 time:0.0 gen_time:177.84065508842468
+gen72.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 14 latches, 4 ands.
+0
+True frame:6 time:0.0 gen_time:178.95996165275574
+gen73.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen66.aag successed with 1 inputs, 12 latches, 4 ands.
+0
+True frame:4 time:0.0 gen_time:186.91586136817932
+gen74.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen5.aag successed with 1 inputs, 4 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:187.27517318725586
+gen75.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 3 inputs, 8 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:190.52634191513062
+gen76.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 1 inputs, 7 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:191.37474989891052
+gen77.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen37.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:192.12795495986938
+gen78.aag generate temp/gen47827995334400.aag successed with 2 inputs, 4 latches, 3 ands.
+0
+False frame:0 time:0.0 gen_time:196.54424858093262
+gen79.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen45.aag successed with 1 inputs, 14 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:199.43898129463196
+gen80.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 2 inputs, 13 latches, 4 ands.
+0
+True frame:5 time:0.0 gen_time:201.06145763397217
+gen81.aag generate temp/gen47827995334400.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+False frame:1 time:0.0 gen_time:202.28480768203735
+gen82.aag generate temp/gen47827995334400.aag successed with 2 inputs, 0 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:206.32089138031006
+gen83.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen59.aag successed with 1 inputs, 1 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:206.78950452804565
+gen84.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen50.aag successed with 2 inputs, 13 latches, 5 ands.
+0
+True frame:3 time:0.0 gen_time:210.1179416179657
+gen85.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen5.aag successed with 1 inputs, 7 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:215.27183651924133
+gen86.aag generate temp/gen47827995334400.aag successed with 3 inputs, 11 latches, 3 ands.
+0
+False frame:1 time:0.0 gen_time:215.89255738258362
+gen87.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:216.62695026397705
+gen88.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 19 latches, 5 ands.
+0
+True frame:5 time:0.0 gen_time:217.12935280799866
+gen89.aag generate temp/gen47827995334400.aag successed with 1 inputs, 5 latches, 1 ands.
+0
+False frame:1 time:0.0 gen_time:224.02426195144653
+gen90.aag generate temp/gen47827995334400.aag successed with 1 inputs, 13 latches, 4 ands.
+0
+False frame:0 time:0.0 gen_time:226.81349873542786
+gen91.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 1 inputs, 14 latches, 3 ands.
+0
+True frame:5 time:0.0 gen_time:227.0886161327362
+gen92.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 10 latches, 4 ands.
+0
+True frame:3 time:0.0 gen_time:232.15471386909485
+gen93.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 8 latches, 3 ands.
+0
+True frame:3 time:0.0 gen_time:235.59989213943481
+gen94.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 1 inputs, 4 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:235.95001220703125
+gen95.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen66.aag successed with 2 inputs, 20 latches, 4 ands.
+0
+True frame:6 time:0.0 gen_time:240.19599056243896
+gen96.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen59.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:245.38006281852722
+gen97.aag generate temp/gen47827995334400.aag successed with 2 inputs, 1 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:249.25566840171814
+gen98.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen97.aag successed with 3 inputs, 13 latches, 6 ands.
+0
+True frame:1 time:0.0 gen_time:259.33723163604736
+gen99.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen50.aag successed with 3 inputs, 16 latches, 7 ands.
+0
+True frame:3 time:0.0 gen_time:260.60218262672424
+gen100.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen59.aag successed with 2 inputs, 9 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:262.0161917209625
+gen101.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 3 inputs, 19 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:270.9957044124603
+gen102.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 1 inputs, 23 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:271.52795004844666
+gen103.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen66.aag successed with 4 inputs, 15 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:273.75672793388367
+gen104.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:276.69099712371826
+gen105.aag generate temp/gen47827995334400.aag successed with 4 inputs, 2 latches, 4 ands.
+0
+False frame:0 time:0.0 gen_time:277.7450578212738
+gen106.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen1.aag successed with 3 inputs, 29 latches, 9 ands.
+0
+True frame:3 time:0.0 gen_time:279.2581276893616
+gen107.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen105.aag successed with 1 inputs, 10 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:283.67435240745544
+gen108.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen66.aag successed with 1 inputs, 11 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:286.63986134529114
+gen109.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 2 inputs, 23 latches, 5 ands.
+0
+True frame:12 time:0.0 gen_time:290.27218079566956
+gen110.aag generate temp/gen47827995334400.aag successed with 4 inputs, 16 latches, 9 ands.
+0
+False frame:1 time:0.0 gen_time:290.54027819633484
+gen111.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen97.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:293.024254322052
+gen112.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 3 inputs, 21 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:297.92311120033264
+gen113.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 1 inputs, 16 latches, 4 ands.
+0
+True frame:7 time:0.0 gen_time:300.26335072517395
+gen114.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 11 latches, 5 ands.
+0
+True frame:5 time:0.0 gen_time:302.9831953048706
+gen115.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen5.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:313.6880786418915
+gen116.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:319.2019338607788
+gen117.aag generate temp/gen47827995334400.aag successed with 2 inputs, 17 latches, 2 ands.
+0
+False frame:1 time:0.0 gen_time:319.4632716178894
+gen118.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 16 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:323.93841099739075
+gen119.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen66.aag successed with 2 inputs, 9 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:329.1730089187622
+gen120.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen59.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:334.0785391330719
+gen121.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 3 inputs, 20 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:342.5454249382019
+gen122.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen89.aag successed with 1 inputs, 11 latches, 2 ands.
+0
+True frame:2 time:0.0 gen_time:344.33014035224915
+gen123.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 9 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:348.5607867240906
+gen124.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 1 inputs, 13 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:354.5483341217041
+gen125.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 1 inputs, 5 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:356.2648968696594
+gen126.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen8.aag successed with 1 inputs, 6 latches, 1 ands.
+0
+True frame:2 time:0.0 gen_time:361.2983419895172
+gen127.aag generate temp/gen47827995334400.aag successed with 2 inputs, 6 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:362.65681886672974
+gen128.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen50.aag successed with 1 inputs, 12 latches, 5 ands.
+0
+True frame:3 time:0.0 gen_time:370.9610507488251
+gen129.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen30.aag successed with 2 inputs, 34 latches, 6 ands.
+0
+True frame:5 time:0.0 gen_time:371.7469379901886
+gen130.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 3 inputs, 17 latches, 6 ands.
+0
+True frame:1 time:0.0 gen_time:372.00761818885803
+gen131.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 3 inputs, 7 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:373.89533376693726
+gen132.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 3 inputs, 18 latches, 6 ands.
+0
+True frame:1 time:0.0 gen_time:374.40744733810425
+gen133.aag generate temp/gen47827995334400.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:375.1579329967499
+gen134.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen127.aag successed with 1 inputs, 11 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:377.12418723106384
+gen135.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 16 latches, 4 ands.
+0
+True frame:3 time:0.0 gen_time:377.8685071468353
+gen136.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 1 inputs, 29 latches, 6 ands.
+0
+True frame:4 time:0.0 gen_time:378.4086139202118
+gen137.aag generate temp/gen47827995334400.aag successed with 2 inputs, 4 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:382.12269592285156
+gen138.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen81.aag successed with 1 inputs, 7 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:386.61382937431335
+gen139.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen11.aag successed with 1 inputs, 3 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:391.48936676979065
+gen140.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 26 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:397.3262634277344
+gen141.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:397.5455312728882
+gen142.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen11.aag successed with 1 inputs, 7 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:399.68636989593506
+gen143.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen81.aag successed with 3 inputs, 10 latches, 4 ands.
+0
+True frame:4 time:0.0 gen_time:410.8542423248291
+gen144.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 1 inputs, 4 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:414.0285527706146
+gen145.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen1.aag successed with 1 inputs, 11 latches, 4 ands.
+0
+True frame:3 time:0.0 gen_time:418.13987588882446
+gen146.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:428.45314383506775
+gen147.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen59.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:438.7326509952545
+gen148.aag generate temp/gen47827995334400.aag successed with 3 inputs, 2 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:439.9665606021881
+gen149.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 14 latches, 3 ands.
+0
+True frame:3 time:0.0 gen_time:442.14995193481445
+gen150.aag generate temp/gen47827995334400.aag successed with 2 inputs, 0 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:443.22583985328674
+gen151.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen8.aag successed with 1 inputs, 7 latches, 2 ands.
+0
+True frame:3 time:0.0 gen_time:445.118079662323
+gen152.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen97.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:446.53035831451416
+gen153.aag generate temp/gen47827995334400.aag successed with 2 inputs, 6 latches, 4 ands.
+0
+False frame:0 time:0.0 gen_time:447.06791400909424
+gen154.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen8.aag successed with 1 inputs, 10 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:448.6010937690735
+gen155.aag generate temp/gen47827995334400.aag successed with 2 inputs, 3 latches, 2 ands.
+0
+False frame:1 time:0.0 gen_time:454.0413193702698
+gen156.aag generate temp/gen47827995334400.aag successed with 1 inputs, 0 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:455.0139536857605
+gen157.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 2 inputs, 16 latches, 6 ands.
+0
+True frame:1 time:0.0 gen_time:455.29336881637573
+gen158.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:455.54224252700806
+gen159.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 3 inputs, 23 latches, 8 ands.
+0
+True frame:4 time:0.0 gen_time:464.28857922554016
+gen160.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen81.aag successed with 1 inputs, 6 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:466.53584933280945
+gen161.aag generate temp/gen47827995334400.aag successed with 4 inputs, 15 latches, 9 ands.
+0
+False frame:0 time:0.0 gen_time:475.3287992477417
+gen162.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:482.48178911209106
+gen163.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen137.aag successed with 1 inputs, 5 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:485.311714887619
+gen164.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen8.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:486.85077571868896
+gen165.aag generate temp/gen47827995334400.aag successed with 2 inputs, 2 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:487.78364300727844
+gen166.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 2 inputs, 3 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:489.2737522125244
+gen167.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:490.22686195373535
+gen168.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen11.aag successed with 1 inputs, 11 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:492.28890776634216
+gen169.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 3 inputs, 16 latches, 4 ands.
+0
+True frame:3 time:0.0 gen_time:494.5963788032532
+gen170.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen30.aag successed with 2 inputs, 30 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:495.26882696151733
+gen171.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 20 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:496.7436172962189
+gen172.aag generate temp/gen47827995334400.aag successed with 2 inputs, 4 latches, 3 ands.
+0
+False frame:1 time:0.0 gen_time:499.16998076438904
+gen173.aag generate temp/gen47827995334400.aag successed with 2 inputs, 9 latches, 3 ands.
+0
+False frame:1 time:0.0 gen_time:502.59240889549255
+gen174.aag generate temp/gen47827995334400.aag successed with 3 inputs, 7 latches, 3 ands.
+0
+False frame:0 time:0.0 gen_time:504.1679139137268
+gen175.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen5.aag successed with 1 inputs, 4 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:504.69407629966736
+gen176.aag generate temp/gen47827995334400.aag successed with 1 inputs, 9 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:505.1729152202606
+gen177.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 1 inputs, 5 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:508.81230211257935
+gen178.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 1 inputs, 12 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:509.046275138855
+gen179.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen18.aag successed with 3 inputs, 12 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:512.0285189151764
+gen180.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen174.aag successed with 1 inputs, 22 latches, 7 ands.
+0
+True frame:5 time:0.0 gen_time:513.2706010341644
+gen181.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:515.3464601039886
+gen182.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 1 inputs, 4 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:516.6711730957031
+gen183.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen47.aag successed with 5 inputs, 38 latches, 11 ands.
+0
+True frame:2 time:0.0 gen_time:518.300990819931
+gen184.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 3 inputs, 24 latches, 11 ands.
+0
+True frame:1 time:0.0 gen_time:518.7837195396423
+gen185.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 4 inputs, 13 latches, 6 ands.
+0
+True frame:1 time:0.0 gen_time:519.0150580406189
+gen186.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen127.aag successed with 1 inputs, 7 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:521.1380712985992
+gen187.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 4 inputs, 31 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:530.657479763031
+gen188.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen105.aag successed with 3 inputs, 3 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:534.3911030292511
+gen189.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 2 inputs, 19 latches, 5 ands.
+0
+True frame:4 time:0.0 gen_time:536.7380726337433
+gen190.aag generate temp/gen47827995334400.aag successed with 3 inputs, 6 latches, 2 ands.
+0
+False frame:1 time:0.0 gen_time:537.8622992038727
+gen191.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 2 inputs, 22 latches, 5 ands.
+0
+True frame:4 time:0.0 gen_time:542.5645468235016
+gen192.aag generate temp/gen47827995334400.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:544.5194368362427
+gen193.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 1 inputs, 10 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:550.0373728275299
+gen194.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 14 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:551.9741706848145
+gen195.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen37.aag successed with 1 inputs, 5 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:556.3586113452911
+gen196.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 5 inputs, 11 latches, 9 ands.
+0
+True frame:1 time:0.0 gen_time:568.1578271389008
+gen197.aag generate temp/gen47827995334400.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+False frame:1 time:0.0 gen_time:569.677178144455
+gen198.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen5.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:577.6802623271942
+gen199.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen97.aag successed with 2 inputs, 6 latches, 3 ands.
+0
+True frame:3 time:0.0 gen_time:578.7283172607422
+gen200.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 2 inputs, 15 latches, 7 ands.
+0
+True frame:3 time:0.0 gen_time:580.2769536972046
+gen201.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 1 inputs, 2 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:581.3717274665833
+gen202.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen66.aag successed with 1 inputs, 7 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:582.1936013698578
+gen203.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 3 inputs, 20 latches, 9 ands.
+0
+True frame:1 time:0.0 gen_time:587.8085355758667
+gen204.aag generate temp/gen47827995334400.aag successed with 1 inputs, 8 latches, 5 ands.
+0
+False frame:0 time:0.0 gen_time:593.0727210044861
+gen205.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 1 inputs, 8 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:593.2954609394073
+gen206.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen50.aag successed with 3 inputs, 23 latches, 7 ands.
+0
+True frame:7 time:0.0 gen_time:594.473138332367
+gen207.aag generate temp/gen47827995334400.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:600.5509827136993
+gen208.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 10 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:602.6711075305939
+gen209.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen150.aag successed with 1 inputs, 20 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:607.04740858078
+gen210.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen30.aag successed with 3 inputs, 39 latches, 8 ands.
+0
+True frame:1 time:0.0 gen_time:612.515627861023
+gen211.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen190.aag successed with 1 inputs, 12 latches, 3 ands.
+0
+True frame:5 time:0.0 gen_time:613.6961216926575
+gen212.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 2 inputs, 5 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:618.3254818916321
+gen213.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 17 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:619.8538434505463
+gen214.aag generate temp/gen47827995334400.aag successed with 1 inputs, 10 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:625.0693922042847
+gen215.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen197.aag successed with 1 inputs, 2 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:627.0068094730377
+gen216.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:628.4138691425323
+gen217.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 3 inputs, 15 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:632.3314335346222
+gen218.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen13.aag successed with 3 inputs, 40 latches, 11 ands.
+0
+True frame:1 time:0.0 gen_time:634.8554911613464
+gen219.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 10 latches, 3 ands.
+0
+True frame:3 time:0.0 gen_time:636.1008257865906
+gen220.aag generate temp/gen47827995334400.aag successed with 4 inputs, 7 latches, 8 ands.
+0
+False frame:1 time:0.0 gen_time:637.5229682922363
+gen221.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:642.203375339508
+gen222.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen59.aag successed with 2 inputs, 3 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:643.402818441391
+gen223.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen41.aag successed with 1 inputs, 6 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:644.3944373130798
+gen224.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen197.aag successed with 1 inputs, 3 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:648.7540416717529
+gen225.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen97.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:650.3592460155487
+gen226.aag generate temp/gen47827995334400.aag successed with 2 inputs, 15 latches, 5 ands.
+0
+False frame:0 time:0.0 gen_time:653.9400775432587
+gen227.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 2 inputs, 10 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:656.4986264705658
+gen228.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen30.aag successed with 1 inputs, 31 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:657.9924554824829
+gen229.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen192.aag successed with 1 inputs, 6 latches, 1 ands.
+0
+True frame:2 time:0.0 gen_time:662.0741677284241
+gen230.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 1 inputs, 3 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:664.0432622432709
+gen231.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen97.aag successed with 2 inputs, 8 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:665.8637702465057
+gen232.aag generate temp/gen47827995334400.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+False frame:1 time:0.0 gen_time:675.2788105010986
+gen233.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 2 inputs, 12 latches, 3 ands.
+0
+True frame:3 time:0.0 gen_time:683.8112196922302
+gen234.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 1 inputs, 4 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:688.5812771320343
+gen235.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen11.aag successed with 1 inputs, 1 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:690.6243262290955
+gen236.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen127.aag successed with 1 inputs, 10 latches, 2 ands.
+0
+True frame:2 time:0.0 gen_time:691.8953258991241
+gen237.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 1 inputs, 7 latches, 8 ands.
+0
+True frame:1 time:0.0 gen_time:695.2463703155518
+gen238.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 2 inputs, 23 latches, 7 ands.
+0
+True frame:1 time:0.0 gen_time:700.0657875537872
+gen239.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 4 inputs, 26 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:704.4813029766083
+gen240.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 2 inputs, 8 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:705.2211799621582
+gen241.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 2 inputs, 21 latches, 10 ands.
+0
+True frame:3 time:0.0 gen_time:706.5953328609467
+gen242.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 19 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:708.3498954772949
+gen243.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 3 inputs, 14 latches, 10 ands.
+0
+True frame:1 time:0.0 gen_time:714.3446452617645
+gen244.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen190.aag successed with 3 inputs, 13 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:716.7413032054901
+gen245.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen150.aag successed with 1 inputs, 8 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:717.8937001228333
+gen246.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen89.aag successed with 3 inputs, 16 latches, 4 ands.
+0
+True frame:5 time:0.0 gen_time:718.8108911514282
+gen247.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen150.aag successed with 2 inputs, 8 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:719.2688534259796
+gen248.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen45.aag successed with 1 inputs, 11 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:719.9730548858643
+gen249.aag generate temp/gen47827995334400.aag successed with 3 inputs, 8 latches, 5 ands.
+0
+False frame:1 time:0.0 gen_time:721.688690662384
+gen250.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen47.aag successed with 5 inputs, 75 latches, 20 ands.
+0
+True frame:8 time:0.0 gen_time:722.1556091308594
+gen251.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen156.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:723.5555112361908
+gen252.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:723.8387315273285
+gen253.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 1 inputs, 4 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:724.7644743919373
+gen254.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 1 inputs, 14 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:724.9842727184296
+gen255.aag generate temp/gen47827995334400.aag successed with 2 inputs, 2 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:726.1393435001373
+gen256.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 5 inputs, 27 latches, 13 ands.
+0
+True frame:4 time:0.0 gen_time:726.3495450019836
+gen257.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen50.aag successed with 1 inputs, 13 latches, 5 ands.
+0
+True frame:3 time:0.0 gen_time:726.887702703476
+gen258.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen249.aag successed with 2 inputs, 8 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:732.2401349544525
+gen259.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 1 inputs, 3 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:733.7432897090912
+gen260.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 2 inputs, 16 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:735.6127603054047
+gen261.aag generate temp/gen47827995334400.aag successed with 1 inputs, 8 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:735.8542470932007
+gen262.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 2 inputs, 1 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:736.1061904430389
+gen263.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 2 inputs, 7 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:742.7871196269989
+gen264.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 2 inputs, 10 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:744.6968517303467
+gen265.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 1 inputs, 5 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:746.8927929401398
+gen266.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen150.aag successed with 1 inputs, 5 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:747.3395915031433
+gen267.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 2 inputs, 25 latches, 6 ands.
+0
+True frame:1 time:0.0 gen_time:751.8073079586029
+gen268.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 3 inputs, 25 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:757.8540182113647
+gen269.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen47.aag successed with 6 inputs, 33 latches, 12 ands.
+0
+True frame:4 time:0.0 gen_time:758.0782270431519
+gen270.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen66.aag successed with 2 inputs, 5 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:758.7587440013885
+gen271.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 1 inputs, 6 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:759.5038661956787
+gen272.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen155.aag successed with 1 inputs, 15 latches, 3 ands.
+0
+True frame:3 time:0.0 gen_time:764.7859420776367
+gen273.aag generate temp/gen47827995334400.aag successed with 2 inputs, 2 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:765.2879235744476
+gen274.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen97.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:765.5177400112152
+gen275.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen192.aag successed with 1 inputs, 8 latches, 1 ands.
+0
+True frame:2 time:0.0 gen_time:766.8832116127014
+gen276.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 4 inputs, 35 latches, 10 ands.
+0
+True frame:2 time:0.0 gen_time:767.0909712314606
+gen277.aag generate temp/gen47827995334400.aag successed with 1 inputs, 16 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:769.7216997146606
+gen278.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 2 inputs, 3 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:771.4322001934052
+gen279.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen97.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:771.9635396003723
+gen280.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen89.aag successed with 1 inputs, 13 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:774.0718777179718
+gen281.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 3 inputs, 14 latches, 11 ands.
+0
+True frame:1 time:0.0 gen_time:774.5131928920746
+gen282.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen249.aag successed with 5 inputs, 40 latches, 8 ands.
+0
+True frame:2 time:0.0 gen_time:776.2100613117218
+gen283.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 4 inputs, 21 latches, 8 ands.
+0
+True frame:1 time:0.0 gen_time:778.4382138252258
+gen284.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 2 inputs, 9 latches, 3 ands.
+0
+True frame:4 time:0.0 gen_time:781.7835958003998
+gen285.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen255.aag successed with 1 inputs, 7 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:782.0102527141571
+gen286.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 3 inputs, 8 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:790.9908137321472
+gen287.aag generate temp/gen47827995334400.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:792.9778244495392
+gen288.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen249.aag successed with 1 inputs, 10 latches, 5 ands.
+0
+True frame:5 time:0.0 gen_time:799.5021622180939
+gen289.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen97.aag successed with 1 inputs, 5 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:802.3298869132996
+gen290.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:805.9149661064148
+gen291.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen66.aag successed with 1 inputs, 8 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:807.5218024253845
+gen292.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen172.aag successed with 1 inputs, 6 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:819.5109436511993
+gen293.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen192.aag successed with 1 inputs, 6 latches, 1 ands.
+0
+True frame:2 time:0.0 gen_time:821.0218000411987
+gen294.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen127.aag successed with 2 inputs, 12 latches, 4 ands.
+0
+True frame:3 time:0.0 gen_time:824.1167948246002
+gen295.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen81.aag successed with 1 inputs, 6 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:824.965564250946
+gen296.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 1 inputs, 10 latches, 4 ands.
+0
+True frame:3 time:0.0 gen_time:825.2439501285553
+gen297.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 1 inputs, 5 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:827.3857157230377
+gen298.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 1 inputs, 5 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:829.2290072441101
+gen299.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 1 inputs, 8 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:831.1620593070984
+gen300.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 1 inputs, 10 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:836.7318294048309
+gen301.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen273.aag successed with 1 inputs, 9 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:846.8484053611755
+gen302.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen37.aag successed with 2 inputs, 6 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:855.9157357215881
+gen303.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen156.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:857.121292591095
+gen304.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen50.aag successed with 1 inputs, 22 latches, 6 ands.
+0
+True frame:7 time:0.0 gen_time:857.6102995872498
+gen305.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen197.aag successed with 1 inputs, 9 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:862.6333804130554
+gen306.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen18.aag successed with 2 inputs, 17 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:865.830931186676
+gen307.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen45.aag successed with 3 inputs, 24 latches, 7 ands.
+0
+True frame:2 time:0.0 gen_time:866.8940048217773
+gen308.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen97.aag successed with 1 inputs, 6 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:869.8719987869263
+gen309.aag generate temp/gen47827995334400.aag successed with 3 inputs, 12 latches, 5 ands.
+0
+False frame:1 time:0.0 gen_time:871.5145604610443
+gen310.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 1 inputs, 6 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:876.4404408931732
+gen311.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 3 inputs, 16 latches, 11 ands.
+0
+True frame:3 time:0.0 gen_time:877.9845345020294
+gen312.aag generate temp/gen47827995334400.aag successed with 2 inputs, 7 latches, 1 ands.
+0
+False frame:1 time:0.0 gen_time:878.3816814422607
+gen313.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen50.aag successed with 1 inputs, 20 latches, 5 ands.
+0
+True frame:3 time:0.0 gen_time:880.809502363205
+gen314.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 2 inputs, 22 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:881.2696576118469
+gen315.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:881.4757921695709
+gen316.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen97.aag successed with 1 inputs, 6 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:883.467499256134
+gen317.aag generate temp/gen47827995334400.aag successed with 3 inputs, 7 latches, 3 ands.
+0
+False frame:0 time:0.0 gen_time:886.804883480072
+gen318.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 2 inputs, 10 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:888.2481331825256
+gen319.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen255.aag successed with 1 inputs, 6 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:891.0709745883942
+gen320.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen66.aag successed with 1 inputs, 10 latches, 2 ands.
+0
+True frame:13 time:0.0 gen_time:892.5721297264099
+gen321.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 10 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:895.249064207077
+gen322.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 21 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:898.3458018302917
+gen323.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen37.aag successed with 1 inputs, 5 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:900.3549661636353
+gen324.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 3 inputs, 3 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:903.6762225627899
+gen325.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 2 inputs, 14 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:904.160719871521
+gen326.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen255.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:906.462474822998
+gen327.aag generate temp/gen47827995334400.aag successed with 1 inputs, 6 latches, 1 ands.
+0
+False frame:1 time:0.0 gen_time:908.3900811672211
+gen328.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 1 inputs, 5 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:909.0409548282623
+gen329.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 2 inputs, 12 latches, 8 ands.
+0
+True frame:3 time:0.0 gen_time:910.4197082519531
+gen330.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen13.aag successed with 5 inputs, 56 latches, 17 ands.
+0
+True frame:1 time:0.0 gen_time:914.2877526283264
+gen331.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 4 inputs, 9 latches, 9 ands.
+0
+True frame:1 time:0.0 gen_time:914.7501702308655
+gen332.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen66.aag successed with 2 inputs, 19 latches, 4 ands.
+0
+True frame:4 time:0.0 gen_time:921.6400413513184
+gen333.aag generate temp/gen47827995334400.aag successed with 2 inputs, 4 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:923.570071220398
+gen334.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 3 inputs, 25 latches, 5 ands.
+0
+True frame:5 time:0.0 gen_time:933.2189047336578
+gen335.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen41.aag successed with 1 inputs, 2 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:934.0934097766876
+gen336.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen127.aag successed with 1 inputs, 7 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:934.5588603019714
+gen337.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 15 latches, 3 ands.
+0
+True frame:4 time:0.0 gen_time:939.9715316295624
+gen338.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 3 inputs, 25 latches, 11 ands.
+0
+True frame:1 time:0.0 gen_time:944.424919128418
+gen339.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:945.595023393631
+gen340.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen155.aag successed with 1 inputs, 3 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:948.9317245483398
+gen341.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 2 inputs, 2 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:956.8033001422882
+gen342.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen47.aag successed with 7 inputs, 36 latches, 14 ands.
+0
+True frame:1 time:0.0 gen_time:957.9332940578461
+gen343.aag generate temp/gen47827995334400.aag successed with 2 inputs, 5 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:962.7213401794434
+gen344.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen127.aag successed with 1 inputs, 13 latches, 3 ands.
+0
+True frame:5 time:0.0 gen_time:967.2706260681152
+gen345.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen137.aag successed with 2 inputs, 6 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:968.1427226066589
+gen346.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 4 inputs, 17 latches, 9 ands.
+0
+True frame:1 time:0.0 gen_time:968.5961511135101
+gen347.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen309.aag successed with 2 inputs, 23 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:970.2017126083374
+gen348.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen312.aag successed with 1 inputs, 8 latches, 1 ands.
+0
+True frame:2 time:0.0 gen_time:978.370379447937
+gen349.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen172.aag successed with 1 inputs, 10 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:980.6720254421234
+gen350.aag generate temp/gen47827995334400.aag successed with 1 inputs, 17 latches, 6 ands.
+0
+False frame:0 time:0.0 gen_time:983.9999597072601
+gen351.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 2 inputs, 4 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:986.0487174987793
+gen352.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen333.aag successed with 1 inputs, 8 latches, 2 ands.
+0
+True frame:4 time:0.0 gen_time:990.5037286281586
+gen353.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 1 inputs, 11 latches, 6 ands.
+0
+True frame:5 time:0.0 gen_time:992.0233545303345
+gen354.aag generate temp/gen47827995334400.aag successed with 2 inputs, 1 latches, 3 ands.
+0
+False frame:0 time:0.0 gen_time:1000.0500445365906
+gen355.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 3 inputs, 23 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:1002.8236567974091
+gen356.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen11.aag successed with 2 inputs, 7 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1003.0630118846893
+gen357.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 3 inputs, 5 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1004.0423159599304
+gen358.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 2 inputs, 13 latches, 10 ands.
+0
+True frame:2 time:0.0 gen_time:1010.9319446086884
+gen359.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen150.aag successed with 2 inputs, 33 latches, 9 ands.
+0
+True frame:1 time:0.0 gen_time:1016.7070219516754
+gen360.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 3 inputs, 17 latches, 6 ands.
+0
+True frame:1 time:0.0 gen_time:1016.9809086322784
+gen361.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 1 inputs, 5 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1018.0029056072235
+gen362.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 14 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:1019.510240316391
+gen363.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen66.aag successed with 3 inputs, 11 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1021.574010848999
+gen364.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 4 inputs, 24 latches, 14 ands.
+0
+True frame:1 time:0.0 gen_time:1024.9689531326294
+gen365.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen156.aag successed with 1 inputs, 6 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1031.6187059879303
+gen366.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen174.aag successed with 1 inputs, 13 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1031.8969571590424
+gen367.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen255.aag successed with 1 inputs, 7 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1033.8487315177917
+gen368.aag generate temp/gen47827995334400.aag successed with 2 inputs, 1 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:1034.4619688987732
+gen369.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen41.aag successed with 1 inputs, 3 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:1036.2820932865143
+gen370.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 14 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:1038.2799997329712
+gen371.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen45.aag successed with 1 inputs, 15 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1042.7292430400848
+gen372.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 2 inputs, 21 latches, 9 ands.
+0
+True frame:11 time:0.0 gen_time:1044.901338815689
+gen373.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 1 inputs, 5 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:1045.8518261909485
+gen374.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen89.aag successed with 2 inputs, 11 latches, 2 ands.
+0
+True frame:4 time:0.0 gen_time:1047.6400640010834
+gen375.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 4 inputs, 7 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1048.0979063510895
+gen376.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 1 inputs, 13 latches, 9 ands.
+0
+True frame:1 time:0.0 gen_time:1057.6126627922058
+gen377.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen354.aag successed with 1 inputs, 1 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1067.6946864128113
+gen378.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen150.aag successed with 2 inputs, 21 latches, 7 ands.
+0
+True frame:1 time:0.0 gen_time:1068.1217317581177
+gen379.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen249.aag successed with 1 inputs, 17 latches, 7 ands.
+0
+True frame:2 time:0.0 gen_time:1071.3617691993713
+gen380.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 1 inputs, 21 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:1071.9896643161774
+gen381.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen30.aag successed with 2 inputs, 27 latches, 7 ands.
+0
+True frame:2 time:0.0 gen_time:1073.2349636554718
+gen382.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 1 inputs, 13 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1076.0368056297302
+gen383.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen37.aag successed with 1 inputs, 6 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:1076.6442728042603
+gen384.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 14 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:1079.7597148418427
+gen385.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen45.aag successed with 2 inputs, 12 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1080.2017290592194
+gen386.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen172.aag successed with 2 inputs, 21 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:1081.6091248989105
+gen387.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 2 inputs, 20 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1082.5335412025452
+gen388.aag generate temp/gen47827995334400.aag successed with 1 inputs, 8 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:1084.1471343040466
+gen389.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen192.aag successed with 2 inputs, 16 latches, 5 ands.
+0
+True frame:3 time:0.0 gen_time:1085.9021198749542
+gen390.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen150.aag successed with 2 inputs, 17 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1086.431723833084
+gen391.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 2 inputs, 30 latches, 12 ands.
+0
+False frame:11 time:0.01 gen_time:1086.7007207870483
+gen392.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen156.aag successed with 2 inputs, 7 latches, 2 ands.
+0
+True frame:2 time:0.0 gen_time:1090.0468974113464
+gen393.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 16 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:1090.8239002227783
+gen394.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 2 inputs, 13 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1091.7466599941254
+gen395.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen354.aag successed with 1 inputs, 1 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1094.8424034118652
+gen396.aag generate temp/gen47827995334400.aag successed with 2 inputs, 3 latches, 3 ands.
+0
+False frame:1 time:0.0 gen_time:1095.389934539795
+gen397.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 1 inputs, 5 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:1113.3714246749878
+gen398.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen37.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1114.9327564239502
+gen399.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 3 inputs, 20 latches, 13 ands.
+0
+True frame:1 time:0.0 gen_time:1115.6942706108093
+gen400.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen155.aag successed with 2 inputs, 7 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1118.8553590774536
+gen401.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 4 inputs, 41 latches, 7 ands.
+0
+True frame:2 time:0.0 gen_time:1120.4035980701447
+gen402.aag generate temp/gen47827995334400.aag successed with 2 inputs, 4 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:1123.2840402126312
+gen403.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen5.aag successed with 2 inputs, 7 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1126.6106250286102
+gen404.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 2 inputs, 14 latches, 4 ands.
+0
+True frame:4 time:0.0 gen_time:1129.3769874572754
+gen405.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen50.aag successed with 1 inputs, 16 latches, 6 ands.
+0
+True frame:7 time:0.0 gen_time:1130.2919702529907
+gen406.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen368.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1133.1102373600006
+gen407.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 4 inputs, 22 latches, 7 ands.
+0
+True frame:1 time:0.0 gen_time:1139.7217316627502
+gen408.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen156.aag successed with 1 inputs, 4 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1140.8185954093933
+gen409.aag generate temp/gen47827995334400.aag successed with 2 inputs, 8 latches, 2 ands.
+0
+False frame:0 time:0.0 gen_time:1141.711250782013
+gen410.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen174.aag successed with 2 inputs, 10 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1143.680499792099
+gen411.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 2 inputs, 14 latches, 9 ands.
+0
+True frame:3 time:0.0 gen_time:1144.4106395244598
+gen412.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 1 inputs, 13 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:1145.8649637699127
+gen413.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 2 inputs, 21 latches, 10 ands.
+0
+True frame:5 time:0.0 gen_time:1149.0872101783752
+gen414.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen354.aag successed with 1 inputs, 4 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1149.3274250030518
+gen415.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen391.aag successed with 1 inputs, 40 latches, 13 ands.
+0
+False frame:11 time:0.03 gen_time:1150.0705258846283
+gen416.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 1 inputs, 21 latches, 7 ands.
+0
+True frame:1 time:0.0 gen_time:1154.5674924850464
+gen417.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 1 inputs, 17 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:1155.0566556453705
+gen418.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen150.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1156.6563792228699
+gen419.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 1 inputs, 4 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1160.231348991394
+gen420.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 2 inputs, 17 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:1166.3054196834564
+gen421.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen396.aag successed with 1 inputs, 21 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1169.0704853534698
+gen422.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1169.446895122528
+gen423.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen197.aag successed with 1 inputs, 2 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:1170.268171787262
+gen424.aag generate temp/gen47827995334400.aag successed with 3 inputs, 4 latches, 5 ands.
+0
+False frame:0 time:0.0 gen_time:1172.9977886676788
+gen425.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen273.aag successed with 2 inputs, 18 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:1174.5670902729034
+gen426.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen354.aag successed with 1 inputs, 5 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1175.5097258090973
+gen427.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen333.aag successed with 1 inputs, 8 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1177.4660131931305
+gen428.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 3 inputs, 14 latches, 11 ands.
+0
+True frame:3 time:0.0 gen_time:1179.2900216579437
+gen429.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1181.6275053024292
+gen430.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 1 inputs, 2 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:1182.108321905136
+gen431.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 3 inputs, 28 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:1186.7661275863647
+gen432.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 1 inputs, 22 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:1191.9397242069244
+gen433.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen174.aag successed with 2 inputs, 14 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1195.2733874320984
+gen434.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 3 inputs, 13 latches, 5 ands.
+0
+True frame:3 time:0.0 gen_time:1196.3500299453735
+gen435.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen59.aag successed with 4 inputs, 26 latches, 9 ands.
+0
+True frame:1 time:0.0 gen_time:1199.099128961563
+gen436.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen396.aag successed with 1 inputs, 13 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1200.0896513462067
+gen437.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen174.aag successed with 1 inputs, 12 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1203.1386051177979
+gen438.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 1 inputs, 8 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1207.996336221695
+gen439.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen192.aag successed with 2 inputs, 10 latches, 4 ands.
+0
+True frame:3 time:0.0 gen_time:1209.3291015625
+gen440.aag generate temp/gen47827995334400.aag successed with 5 inputs, 30 latches, 5 ands.
+0
+False frame:0 time:0.0 gen_time:1209.8185884952545
+gen441.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 1 inputs, 4 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1210.0335853099823
+gen442.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen47.aag successed with 1 inputs, 25 latches, 8 ands.
+0
+True frame:1 time:0.0 gen_time:1210.7233436107635
+gen443.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 3 inputs, 7 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1210.93536901474
+gen444.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen354.aag successed with 1 inputs, 1 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1212.0700669288635
+gen445.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 1 inputs, 14 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1213.4669444561005
+gen446.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen391.aag successed with 1 inputs, 38 latches, 15 ands.
+0
+False frame:11 time:0.03 gen_time:1216.0805671215057
+gen447.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen396.aag successed with 1 inputs, 4 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1217.1199216842651
+gen448.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 3 inputs, 8 latches, 8 ands.
+0
+True frame:1 time:0.0 gen_time:1219.3073847293854
+gen449.aag generate temp/gen47827995334400.aag successed with 1 inputs, 4 latches, 3 ands.
+0
+False frame:0 time:0.0 gen_time:1220.64195561409
+gen450.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 1 inputs, 2 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1221.8081970214844
+gen451.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen18.aag successed with 2 inputs, 16 latches, 8 ands.
+0
+True frame:2 time:0.0 gen_time:1224.0166192054749
+gen452.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 1 inputs, 9 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1229.9128060340881
+gen453.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 2 inputs, 5 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:1234.7790858745575
+gen454.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen396.aag successed with 4 inputs, 16 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1245.1055557727814
+gen455.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen8.aag successed with 1 inputs, 9 latches, 2 ands.
+0
+True frame:4 time:0.0 gen_time:1247.485711812973
+gen456.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen150.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1254.0492861270905
+gen457.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen391.aag successed with 1 inputs, 35 latches, 13 ands.
+0
+False frame:11 time:0.02 gen_time:1256.2848608493805
+gen458.aag generate temp/gen47827995334400.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:1268.504234790802
+gen459.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen457.aag successed with 3 inputs, 53 latches, 15 ands.
+0
+False frame:11 time:0.05 gen_time:1271.788838148117
+gen460.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen457.aag successed with 4 inputs, 85 latches, 27 ands.
+0
+True frame:69 time:2.62 gen_time:1278.6271994113922
+gen461.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 2 inputs, 31 latches, 12 ands.
+0
+True frame:1 time:0.0 gen_time:1280.2010123729706
+gen462.aag generate temp/gen47827995334400.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+False frame:1 time:0.0 gen_time:1280.756135225296
+gen463.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen396.aag successed with 5 inputs, 18 latches, 7 ands.
+0
+True frame:1 time:0.0 gen_time:1283.6320328712463
+gen464.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 2 inputs, 8 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1288.7875912189484
+gen465.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 15 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:1291.358017206192
+gen466.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen156.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1291.7898797988892
+gen467.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen391.aag successed with 1 inputs, 31 latches, 12 ands.
+0
+True frame:30 time:0.01 gen_time:1292.5414464473724
+gen468.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen174.aag successed with 2 inputs, 11 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1293.551254272461
+gen469.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen446.aag successed with 1 inputs, 40 latches, 16 ands.
+0
+False frame:11 time:0.05 gen_time:1293.850742340088
+gen470.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 1 inputs, 7 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1294.0901074409485
+gen471.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen469.aag successed with 2 inputs, 56 latches, 19 ands.
+0
+False frame:19 time:0.39 gen_time:1295.206354856491
+gen472.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen446.aag successed with 1 inputs, 43 latches, 16 ands.
+0
+True frame:33 time:0.42 gen_time:1298.4724643230438
+gen473.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen424.aag successed with 2 inputs, 4 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1299.471899986267
+gen474.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen81.aag successed with 1 inputs, 10 latches, 4 ands.
+0
+True frame:4 time:0.0 gen_time:1299.9754450321198
+gen475.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen446.aag successed with 5 inputs, 58 latches, 23 ands.
+0
+True frame:36 time:0.1 gen_time:1303.7156901359558
+gen476.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen469.aag successed with 1 inputs, 51 latches, 18 ands.
+0
+True frame:63 time:1.45 gen_time:1305.786057472229
+gen477.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen81.aag successed with 1 inputs, 7 latches, 1 ands.
+0
+True frame:3 time:0.0 gen_time:1308.736094236374
+gen478.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 2 inputs, 10 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1321.4226214885712
+gen479.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen220.aag successed with 4 inputs, 30 latches, 16 ands.
+0
+True frame:7 time:0.0 gen_time:1321.708157300949
+gen480.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 1 inputs, 15 latches, 4 ands.
+0
+True frame:3 time:0.0 gen_time:1327.0110831260681
+gen481.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen64.aag successed with 2 inputs, 9 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1328.4515619277954
+gen482.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen459.aag successed with 10 inputs, 114 latches, 33 ands.
+0
+False frame:17 time:0.47 gen_time:1331.21195936203
+gen483.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen45.aag successed with 1 inputs, 25 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:1336.0174448490143
+gen484.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen391.aag successed with 2 inputs, 54 latches, 16 ands.
+0
+True frame:39 time:0.52 gen_time:1337.3433201313019
+gen485.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 1 inputs, 11 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1338.053687095642
+gen486.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen457.aag successed with 1 inputs, 46 latches, 14 ands.
+0
+False frame:25 time:0.27 gen_time:1339.0846455097198
+gen487.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen486.aag successed with 4 inputs, 53 latches, 18 ands.
+0
+True frame:67 time:4.48 gen_time:1345.8381881713867
+gen488.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen249.aag successed with 5 inputs, 20 latches, 12 ands.
+0
+True frame:2 time:0.0 gen_time:1346.0555896759033
+gen489.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen47.aag successed with 2 inputs, 30 latches, 10 ands.
+0
+True frame:1 time:0.0 gen_time:1346.736343383789
+gen490.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen156.aag successed with 2 inputs, 5 latches, 6 ands.
+0
+True frame:1 time:0.0 gen_time:1346.9644305706024
+gen491.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen482.aag successed with 10 inputs, 137 latches, 38 ands.
+0
+False frame:19 time:0.56 gen_time:1347.8132843971252
+gen492.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen1.aag successed with 1 inputs, 15 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:1350.0306422710419
+gen493.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen156.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1350.2500214576721
+gen494.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen249.aag successed with 1 inputs, 22 latches, 7 ands.
+0
+True frame:8 time:0.0 gen_time:1353.507271528244
+gen495.aag generate temp/gen47827995334400.aag successed with 3 inputs, 8 latches, 3 ands.
+0
+False frame:0 time:0.0 gen_time:1355.6916670799255
+gen496.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen424.aag successed with 6 inputs, 20 latches, 12 ands.
+0
+True frame:4 time:0.0 gen_time:1356.2190239429474
+gen497.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen165.aag successed with 1 inputs, 8 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:1357.7905843257904
+gen498.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen486.aag successed with 4 inputs, 51 latches, 17 ands.
+0
+False frame:43 time:2.36 gen_time:1360.779851436615
+gen499.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen486.aag successed with 2 inputs, 49 latches, 15 ands.
+0
+False frame:21 time:0.44 gen_time:1364.6646237373352
+gen500.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen172.aag successed with 2 inputs, 12 latches, 6 ands.
+0
+True frame:1 time:0.0 gen_time:1368.2678837776184
+gen501.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen89.aag successed with 1 inputs, 12 latches, 1 ands.
+0
+True frame:5 time:0.0 gen_time:1370.442024230957
+gen502.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen368.aag successed with 3 inputs, 22 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1370.6954860687256
+gen503.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen81.aag successed with 2 inputs, 24 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:1372.445910692215
+gen504.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen495.aag successed with 2 inputs, 20 latches, 4 ands.
+0
+True frame:7 time:0.0 gen_time:1373.4077951908112
+gen505.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen11.aag successed with 1 inputs, 5 latches, 3 ands.
+0
+True frame:1 time:0.0 gen_time:1373.8778975009918
+gen506.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 1 inputs, 6 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:1376.04713845253
+gen507.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 3 inputs, 12 latches, 8 ands.
+0
+True frame:7 time:0.0 gen_time:1379.1129312515259
+gen508.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen457.aag successed with 2 inputs, 44 latches, 14 ands.
+0
+True frame:28 time:0.05 gen_time:1385.379545211792
+gen509.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen457.aag successed with 2 inputs, 51 latches, 17 ands.
+0
+False frame:20 time:0.2 gen_time:1386.1645724773407
+gen510.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen45.aag successed with 3 inputs, 24 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:1386.6391763687134
+gen511.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen47.aag successed with 2 inputs, 28 latches, 8 ands.
+0
+True frame:1 time:0.0 gen_time:1387.2694234848022
+gen512.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 1 inputs, 3 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1388.4202525615692
+gen513.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 2 inputs, 7 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:1389.842274427414
+gen514.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen459.aag successed with 5 inputs, 64 latches, 18 ands.
+0
+False frame:11 time:0.11 gen_time:1391.8656911849976
+gen515.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen190.aag successed with 3 inputs, 20 latches, 8 ands.
+0
+True frame:5 time:0.0 gen_time:1392.9844422340393
+gen516.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen249.aag successed with 3 inputs, 22 latches, 10 ands.
+0
+True frame:4 time:0.0 gen_time:1401.4118518829346
+gen517.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen469.aag successed with 1 inputs, 45 latches, 17 ands.
+0
+False frame:29 time:0.72 gen_time:1402.805608510971
+gen518.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 31 latches, 8 ands.
+0
+True frame:2 time:0.0 gen_time:1403.4953656196594
+gen519.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen1.aag successed with 1 inputs, 6 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:1404.542748451233
+gen520.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 2 inputs, 7 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1409.3705344200134
+gen521.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen459.aag successed with 2 inputs, 62 latches, 17 ands.
+0
+False frame:17 time:0.2 gen_time:1410.2274661064148
+gen522.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen482.aag successed with 8 inputs, 141 latches, 38 ands.
+0
+False frame:20 time:1.58 gen_time:1412.9469130039215
+gen523.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen491.aag successed with 13 inputs, 180 latches, 55 ands.
+0
+False frame:20 time:1.07 gen_time:1414.692966222763
+gen524.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen457.aag successed with 3 inputs, 43 latches, 17 ands.
+0
+False frame:11 time:0.07 gen_time:1415.114397764206
+gen525.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen18.aag successed with 2 inputs, 17 latches, 5 ands.
+0
+True frame:2 time:0.0 gen_time:1416.5504336357117
+gen526.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen30.aag successed with 2 inputs, 31 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:1420.4440503120422
+gen527.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen524.aag successed with 2 inputs, 56 latches, 18 ands.
+0
+False frame:11 time:0.16 gen_time:1420.9013209342957
+gen528.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen522.aag successed with 7 inputs, 162 latches, 43 ands.
+0
+False frame:20 time:2.86 gen_time:1424.1913347244263
+gen529.aag generate temp/gen47827995334400.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+False frame:1 time:0.0 gen_time:1425.7955014705658
+gen530.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen517.aag successed with 1 inputs, 51 latches, 18 ands.
+0
+False frame:34 time:1.21 gen_time:1427.3295896053314
+gen531.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen491.aag successed with 9 inputs, 165 latches, 46 ands.
+0
+False frame:19 time:0.64 gen_time:1429.2591421604156
+gen532.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen59.aag successed with 1 inputs, 0 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:1429.4760746955872
+gen533.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen482.aag successed with 13 inputs, 151 latches, 42 ands.
+0
+True frame:112 time:34.74 gen_time:1465.5776126384735
+gen534.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen531.aag successed with 6 inputs, 209 latches, 49 ands.
+0
+False frame:26 time:3.16 gen_time:1469.1907007694244
+gen535.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen534.aag successed with 9 inputs, 249 latches, 58 ands.
+0
+False frame:46 time:89.36 gen_time:1561.7967455387115
+gen536.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen491.aag successed with 8 inputs, 163 latches, 46 ands.
+0
+False frame:19 time:0.69 gen_time:1562.7186028957367
+gen537.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen471.aag successed with 3 inputs, 67 latches, 20 ands.
+0
+False frame:29 time:1.61 gen_time:1565.2809748649597
+gen538.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen457.aag successed with 1 inputs, 41 latches, 14 ands.
+0
+False frame:11 time:0.07 gen_time:1566.3077280521393
+gen539.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen354.aag successed with 2 inputs, 4 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:1568.1410541534424
+gen540.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 3 inputs, 25 latches, 5 ands.
+0
+True frame:4 time:0.0 gen_time:1568.9402310848236
+gen541.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen498.aag successed with 1 inputs, 56 latches, 17 ands.
+0
+True frame:36 time:0.53 gen_time:1569.8407344818115
+gen542.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen482.aag successed with 4 inputs, 125 latches, 35 ands.
+0
+True frame:103 time:11.72 gen_time:1582.9741485118866
+gen543.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen534.aag successed with 3 inputs, 234 latches, 53 ands.
+0
+True frame:112 time:139.31 gen_time:1725.2251298427582
+gen544.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen396.aag successed with 2 inputs, 12 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:1725.6464819908142
+gen545.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen528.aag successed with 4 inputs, 195 latches, 47 ands.
+0
+False frame:35 time:28.36 gen_time:1754.6982355117798
+gen546.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen11.aag successed with 1 inputs, 3 latches, 2 ands.
+0
+True frame:1 time:0.0 gen_time:1756.240157365799
+gen547.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen522.aag successed with 2 inputs, 163 latches, 43 ands.
+0
+True frame:137 time:4630.76 gen_time:6433.958854436874
+gen548.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen249.aag successed with 1 inputs, 18 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:6434.16730427742
+gen549.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen523.aag successed with 11 inputs, 214 latches, 63 ands.
+0
+False frame:44 time:252.79 gen_time:6691.132297277451
+gen550.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen523.aag successed with 7 inputs, 196 latches, 57 ands.
+0
+False frame:31 time:3.88 gen_time:6696.140344142914
+gen551.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen517.aag successed with 2 inputs, 55 latches, 21 ands.
+0
+True frame:98 time:51.61 gen_time:6749.04607629776
+gen552.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen536.aag successed with 9 inputs, 207 latches, 55 ands.
+0
+False frame:33 time:10.71 gen_time:6760.708946228027
+gen553.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen536.aag successed with 6 inputs, 183 latches, 54 ands.
+0
+False frame:32 time:3.51 gen_time:6764.972498178482
+gen554.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen550.aag successed with 3 inputs, 210 latches, 62 ands.
+0
+False frame:98 time:11.8556 gen_time:13966.044878959656
+gen555.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen153.aag successed with 3 inputs, 17 latches, 6 ands.
+0
+True frame:1 time:0.0 gen_time:13967.883176803589
+gen556.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen514.aag successed with 3 inputs, 66 latches, 18 ands.
+0
+True frame:50 time:0.7 gen_time:13968.970331192017
+gen557.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen538.aag successed with 3 inputs, 55 latches, 16 ands.
+0
+False frame:19 time:0.19 gen_time:13969.580184698105
+gen558.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen368.aag successed with 1 inputs, 7 latches, 4 ands.
+0
+True frame:4 time:0.0 gen_time:13970.021616697311
+gen559.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen514.aag successed with 4 inputs, 67 latches, 19 ands.
+0
+False frame:17 time:0.22 gen_time:13970.50149154663
+gen560.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen499.aag successed with 1 inputs, 55 latches, 16 ands.
+0
+True frame:67 time:4.92 gen_time:13977.067301511765
+gen561.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen553.aag successed with 4 inputs, 195 latches, 55 ands.
+0
+False frame:33 time:5.94 gen_time:13983.338376283646
+gen562.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen31.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:21186.54683303833
+gen563.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen491.aag successed with 6 inputs, 167 latches, 43 ands.
+0
+False frame:27 time:6.63 gen_time:21197.142694473267
+gen564.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen471.aag successed with 2 inputs, 79 latches, 23 ands.
+0
+True frame:204 time:578.92 gen_time:21787.686365365982
+gen565.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen459.aag successed with 3 inputs, 60 latches, 16 ands.
+0
+False frame:19 time:0.31 gen_time:21789.3637714386
+gen566.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen30.aag successed with 2 inputs, 34 latches, 6 ands.
+0
+True frame:2 time:0.0 gen_time:21790.375720977783
+gen567.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 2 inputs, 5 latches, 4 ands.
+0
+True frame:1 time:0.0 gen_time:21791.444204568863
+gen568.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen553.aag successed with 4 inputs, 233 latches, 63 ands.
+0
+False frame:74 time:262.44 gen_time:22056.563836574554
+gen569.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen482.aag successed with 9 inputs, 147 latches, 38 ands.
+0
+False frame:27 time:1.78 gen_time:22064.012552022934
+gen570.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen459.aag successed with 4 inputs, 72 latches, 19 ands.
+0
+False frame:11 time:0.11 gen_time:22065.14221429825
+gen571.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen557.aag successed with 6 inputs, 84 latches, 28 ands.
+0
+False frame:20 time:0.55 gen_time:29273.624411821365
+gen572.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen570.aag successed with 6 inputs, 91 latches, 21 ands.
+0
+False frame:11 time:0.16 gen_time:36475.35742235184
+gen573.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen509.aag successed with 2 inputs, 52 latches, 18 ands.
+0
+False frame:19 time:0.24 gen_time:36475.85679316521
+gen574.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen537.aag successed with 1 inputs, 72 latches, 23 ands.
+0
+True frame:154 time:127.21 gen_time:36607.954479932785
+gen575.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen6.aag successed with 1 inputs, 5 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:36608.41310143471
+gen576.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen538.aag successed with 1 inputs, 52 latches, 15 ands.
+0
+False frame:20 time:0.51 gen_time:36609.17943787575
+gen577.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen531.aag successed with 2 inputs, 178 latches, 47 ands.
+0
+False frame:25 time:4.54 gen_time:36614.85446643829
+gen578.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen569.aag successed with 7 inputs, 163 latches, 42 ands.
+0
+False frame:45 time:22.53 gen_time:36638.12299847603
+gen579.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen534.aag successed with 4 inputs, 231 latches, 52 ands.
+0
+False frame:36 time:9.34 gen_time:36648.29858112335
+gen580.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen537.aag successed with 3 inputs, 70 latches, 23 ands.
+0
+True frame:99 time:25.38 gen_time:36674.607510089874
+gen581.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen524.aag successed with 3 inputs, 56 latches, 22 ands.
+0
+False frame:23 time:0.22 gen_time:36675.08349323273
+gen582.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen446.aag successed with 2 inputs, 44 latches, 16 ands.
+0
+False frame:11 time:0.06 gen_time:36677.176876306534
+gen583.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen550.aag successed with 4 inputs, 217 latches, 64 ands.
+0
+True frame:103 time:6439.43 gen_time:43155.38969516754
+gen584.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen514.aag successed with 2 inputs, 74 latches, 21 ands.
+0
+True frame:52 time:1.09 gen_time:43157.23242020607
+gen585.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen396.aag successed with 3 inputs, 9 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:43157.42821979523
+gen586.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen577.aag successed with 4 inputs, 205 latches, 56 ands.
+0
+True frame:219 time:1439.17 gen_time:44618.7229013443
+gen587.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen563.aag successed with 7 inputs, 207 latches, 50 ands.
+0
+False frame:35 time:12.17 gen_time:44631.592504262924
+gen588.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen549.aag successed with 8 inputs, 233 latches, 64 ands.
+0
+True frame:108 time:224.38 gen_time:44900.04769039154
+gen589.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen569.aag successed with 6 inputs, 159 latches, 42 ands.
+0
+False frame:36 time:406.98 gen_time:45309.79260444641
+gen590.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen545.aag successed with 5 inputs, 203 latches, 51 ands.
+0
+False frame:43 time:43.35 gen_time:45354.35776257515
+gen591.aag generate temp/gen47827995334400.aag successed with 2 inputs, 1 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:45360.77338886261
+gen592.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen499.aag successed with 1 inputs, 52 latches, 16 ands.
+0
+True frame:55 time:1.33 gen_time:45364.193940877914
+gen593.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen312.aag successed with 1 inputs, 11 latches, 3 ands.
+0
+True frame:2 time:0.0 gen_time:45364.420637369156
+gen594.aag generate temp/gen47827995334400.aag successed with 2 inputs, 9 latches, 3 ands.
+0
+False frame:1 time:0.0 gen_time:45365.05616784096
+gen595.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen545.aag successed with 4 inputs, 205 latches, 50 ands.
+0
+False frame:41 time:84.48 gen_time:45450.904990911484
+gen596.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen527.aag successed with 3 inputs, 69 latches, 23 ands.
+0
+True frame:71 time:0.54 gen_time:45456.30645799637
+gen597.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen569.aag successed with 7 inputs, 176 latches, 47 ands.
+0
+False frame:30 time:5.16 gen_time:45461.80040192604
+gen598.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 3 inputs, 15 latches, 4 ands.
+0
+True frame:2 time:0.0 gen_time:45462.04592728615
+gen599.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen582.aag successed with 2 inputs, 74 latches, 20 ands.
+0
+False frame:18 time:0.28 gen_time:45462.80674576759
+gen600.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen572.aag successed with 3 inputs, 98 latches, 22 ands.
+0
+False frame:20 time:0.34 gen_time:45463.75706410408
+gen601.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen553.aag successed with 6 inputs, 204 latches, 57 ands.
+0
+False frame:26 time:3.61 gen_time:45468.574931144714
+gen602.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen19.aag successed with 3 inputs, 16 latches, 4 ands.
+0
+True frame:10 time:0.0 gen_time:45468.87098431587
+gen603.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen590.aag successed with 4 inputs, 222 latches, 56 ands.
+0
+False frame:41 time:73.8 gen_time:45543.839076042175
+gen604.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen595.aag successed with 2 inputs, 209 latches, 51 ands.
+0
+False frame:46 time:606.01 gen_time:46155.08417439461
+gen605.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen509.aag successed with 1 inputs, 52 latches, 17 ands.
+0
+True frame:43 time:0.49 gen_time:60580.73536539078
+gen606.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen587.aag successed with 3 inputs, 237 latches, 57 ands.
+0
+False frame:47 time:139.24 gen_time:60727.70276236534
+gen607.aag generate temp/gen47827995334400.aag successed with 1 inputs, 10 latches, 1 ands.
+0
+False frame:0 time:0.0 gen_time:60728.15300536156
+gen608.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen524.aag successed with 2 inputs, 54 latches, 18 ands.
+0
+False frame:11 time:0.11 gen_time:60728.72333049774
+gen609.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen36.aag successed with 1 inputs, 6 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:60729.14508724213
+gen610.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen529.aag successed with 1 inputs, 9 latches, 2 ands.
+0
+True frame:6 time:0.0 gen_time:60729.36710381508
+gen611.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen524.aag successed with 4 inputs, 62 latches, 21 ands.
+0
+False frame:11 time:0.08 gen_time:60729.83954977989
+gen612.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen499.aag successed with 2 inputs, 50 latches, 16 ands.
+0
+True frame:163 time:40.08 gen_time:60775.48243522644
+gen613.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen150.aag successed with 2 inputs, 19 latches, 5 ands.
+0
+True frame:1 time:0.0 gen_time:60775.980129003525
+gen614.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen517.aag successed with 1 inputs, 51 latches, 18 ands.
+0
+False frame:32 time:0.91 gen_time:60784.23007774353
+gen615.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen579.aag successed with 7 inputs, 274 latches, 62 ands.
+0
+False frame:41 time:183.21 gen_time:75386.09364056587
+gen616.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen563.aag successed with 8 inputs, 199 latches, 49 ands.
+0
+False frame:36 time:8.23 gen_time:75395.53462028503
+gen617.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen577.aag successed with 2 inputs, 182 latches, 49 ands.
+0
+True frame:86 time:92.25 gen_time:75490.46753334999
+gen618.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 3 inputs, 25 latches, 7 ands.
+0
+True frame:1 time:0.0 gen_time:75490.69085431099
+gen619.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen569.aag successed with 3 inputs, 157 latches, 40 ands.
+0
+False frame:27 time:2.14 gen_time:75493.07074642181
+gen620.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen28.aag successed with 1 inputs, 22 latches, 7 ands.
+0
+True frame:6 time:0.0 gen_time:75493.2967209816
+gen621.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen569.aag successed with 6 inputs, 167 latches, 43 ands.
+0
+False frame:29 time:4.36 gen_time:75498.04097604752
+gen622.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen579.aag successed with 5 inputs, 253 latches, 59 ands.
+0
+False frame:95 time:397.63 gen_time:75899.46480417252
+gen623.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen572.aag successed with 2 inputs, 109 latches, 25 ands.
+0
+False frame:29 time:3.95 gen_time:75909.13729047775
+gen624.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen595.aag successed with 6 inputs, 221 latches, 55 ands.
+0
+False frame:44 time:252.12 gen_time:76163.8590900898
+gen625.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen587.aag successed with 5 inputs, 222 latches, 52 ands.
+0
+False frame:45 time:115.42 gen_time:76281.25345373154
+gen626.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen482.aag successed with 6 inputs, 143 latches, 39 ands.
+0
+False frame:22 time:1.24 gen_time:76287.09697413445
+gen627.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen570.aag successed with 4 inputs, 97 latches, 22 ands.
+0
+False frame:11 time:0.16 gen_time:76287.72914481163
+gen628.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen623.aag successed with 2 inputs, 112 latches, 26 ands.
+0
+False frame:30 time:13.19 gen_time:76454.75399398804
+gen629.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen424.aag successed with 2 inputs, 10 latches, 7 ands.
+0
+True frame:1 time:0.0 gen_time:76454.98861789703
+gen630.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen522.aag successed with 7 inputs, 167 latches, 44 ands.
+0
+False frame:30 time:8.82 gen_time:76468.59717416763
+gen631.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen24.aag successed with 1 inputs, 2 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:76506.45812225342
+gen632.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen568.aag successed with 5 inputs, 248 latches, 64 ands.
+0
+False frame:74 time:1359.89 gen_time:77879.08747291565
+gen633.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen578.aag successed with 4 inputs, 170 latches, 45 ands.
+0
+False frame:45 time:27.76 gen_time:77908.07242465019
+gen634.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen616.aag successed with 5 inputs, 210 latches, 50 ands.
+0
+False frame:31 time:9.7 gen_time:77918.13407039642
+gen635.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen578.aag successed with 5 inputs, 198 latches, 49 ands.
+0
+False frame:47 time:45.33 gen_time:85164.86652302742
+gen636.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen86.aag successed with 2 inputs, 20 latches, 3 ands.
+0
+True frame:4 time:0.0 gen_time:85165.48061966896
+gen637.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen595.aag successed with 2 inputs, 209 latches, 52 ands.
+0
+False frame:47 time:210.6 gen_time:85390.49681854248
+gen638.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen1.aag successed with 1 inputs, 12 latches, 3 ands.
+0
+True frame:3 time:0.0 gen_time:85391.16936349869
+gen639.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen446.aag successed with 2 inputs, 42 latches, 16 ands.
+0
+True frame:29 time:0.11 gen_time:85391.49194765091
+gen640.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen619.aag successed with 5 inputs, 173 latches, 43 ands.
+0
+False frame:33 time:4.39 gen_time:85396.22102284431
+gen641.aag reGenerate temp/gen47827995334400.aag based on aigerfile_thread/gen82.aag successed with 1 inputs, 1 latches, 1 ands.
+0
+True frame:1 time:0.0 gen_time:85396.42838692665
